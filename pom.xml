@@ -71,6 +71,9 @@
 						<version>1.0-m3</version>
 						<configuration>
 							<noDeploy>true</noDeploy>
+							<releaseBranch>candidate</releaseBranch>
+							<developmentBranch>development</developmentBranch>
+							<productionBranch>master</productionBranch>
 						</configuration>
 					</plugin>
 			</plugins>
