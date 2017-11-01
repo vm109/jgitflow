@@ -74,6 +74,7 @@
 							<flowInitContext>
 							<developBranchName>development</developBranchName>
 							<masterBranchName>candidate</masterBranchName>
+							<releaseBranchPrefix>candidate</releaseBranchPrefix>
 							</flowInitContext>
 							
 						</configuration>
