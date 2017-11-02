@@ -4,7 +4,7 @@
 
 	<groupId>org.my.springsecurity</groupId>
 	<artifactId>SpringSecurityInterceptor</artifactId>
-	<version>0.0.12-SNAPSHOT</version>
+	<version>0.0.13-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
 	<name>SpringSecurityInterceptor</name>
