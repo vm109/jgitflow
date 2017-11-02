@@ -4,7 +4,7 @@
 
 	<groupId>org.my.springsecurity</groupId>
 	<artifactId>SpringSecurityInterceptor</artifactId>
-	<version>0.0.8</version>
+	<version>0.0.10</version>
 	<packaging>jar</packaging>
 
 	<name>SpringSecurityInterceptor</name>
@@ -76,7 +76,7 @@
 							<masterBranchName>candidate</masterBranchName>
 							<releaseBranchPrefix>candidatecut/</releaseBranchPrefix>
 							</flowInitContext>
-							
+							<autoVersionSubmodules>true</autoVersionSubmodules>
 						</configuration>
 					</plugin>
 			</plugins>
