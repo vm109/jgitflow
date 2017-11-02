@@ -71,8 +71,6 @@
 						<version>1.0-m3</version>
 						<configuration>
 							<noDeploy>true</noDeploy>
-							<autoVersionSubmodules>true</autoVersionSubmodules>
-							<pushReleases>true</pushReleases>
 							<flowInitContext>
 							<developBranchName>development</developBranchName>
 							<masterBranchName>candidate</masterBranchName>
