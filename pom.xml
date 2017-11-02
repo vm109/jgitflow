@@ -72,6 +72,7 @@
 						<configuration>
 							<noDeploy>true</noDeploy>
 							<autoVersionSubmodules>true</autoVersionSubmodules>
+							<pushReleases>true</pushReleases>
 							<flowInitContext>
 							<developBranchName>development</developBranchName>
 							<masterBranchName>candidate</masterBranchName>
