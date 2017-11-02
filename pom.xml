@@ -71,12 +71,12 @@
 						<version>1.0-m3</version>
 						<configuration>
 							<noDeploy>true</noDeploy>
+							<autoVersionSubmodules>true</autoVersionSubmodules>
 							<flowInitContext>
 							<developBranchName>development</developBranchName>
 							<masterBranchName>candidate</masterBranchName>
 							<releaseBranchPrefix>candidatecut/</releaseBranchPrefix>
 							</flowInitContext>
-							<autoVersionSubmodules>true</autoVersionSubmodules>
 						</configuration>
 					</plugin>
 			</plugins>
