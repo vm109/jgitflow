@@ -76,7 +76,7 @@
 							<masterBranchName>candidate</masterBranchName>
 							<releaseBranchPrefix>candidatecut/</releaseBranchPrefix>
 							</flowInitContext>
-							
+							<autoVersionSubmodules>true</autoVersionSubmodules>
 						</configuration>
 					</plugin>
 			</plugins>
