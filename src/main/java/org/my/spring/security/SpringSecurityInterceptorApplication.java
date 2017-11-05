@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class SpringSecurityInterceptorApplication {
-//changes done for hotfix- checking hotfix - checking out hotfix
+//changes done for hotfix [these changes are done on hotfix with snapshot version and will merge to candidate]
 	public static void main(String[] args) {
 		SpringApplication.run(SpringSecurityInterceptorApplication.class, args);
 	}
