@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class SpringSecurityInterceptorApplication {
-//changes needed in development [changes done on the hotfix branch]
+//changes needed in development [changes done on the hotfix branch in github]
 	public static void main(String[] args) {
 		SpringApplication.run(SpringSecurityInterceptorApplication.class, args);
 	}
