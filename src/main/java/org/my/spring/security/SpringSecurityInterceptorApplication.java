@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class SpringSecurityInterceptorApplication {
-//changes done for hotfix
+//changes done for hotfix- checking hotfix
 	public static void main(String[] args) {
 		SpringApplication.run(SpringSecurityInterceptorApplication.class, args);
 	}
