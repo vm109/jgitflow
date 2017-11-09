@@ -15,7 +15,7 @@ public class AdminUserController {
 		Users users = new Users();
 	
 		users.setAge(23);
-		users.setName("oddio");
+		users.setName("done changes supports class reload");
 		return users;
 	}
 }
